@@ -1,17 +1,4 @@
 // ---------------------------- //
-//          METADATA            //
-// ---------------------------- //
-// 1) Lang Type = JavaScript
-// 2) Type Case = Camel
-// 3) Doc Type = 
-// [1]  @desc for description of functions
-// [2] @arg for arguments functions take
-// [3] @returns returns for functions
-// [4] @note for anu important note
-
-
-
-// ---------------------------- //
 // Assement Ex-01 - Activity 5 //
 // ---------------------------- //
 console.log("-------------------ASSESSMENT EXERCISE 01 ---------------------------\n");
